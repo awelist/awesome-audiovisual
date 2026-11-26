@@ -34,6 +34,7 @@
 
 ## Audio Processing
 
+- [AIAC Audio Tools](https://aiac.app/audio-tools/) - Free browser-local audio engineering toolkit powered by Rust/WebAssembly (LUFS & True Peak metering, FLAC spectral verification, DAW, vocal separation).
 - [Audacity](https://www.audacityteam.org/) - A free, open-source, cross-platform audio editor and recording software.
 - [SoX (Sound eXchange)](http://sox.sourceforge.net/) - A command-line utility for audio manipulation and processing.
 - [Librosa](https://librosa.org/) - A Python library for analyzing and processing audio signals.
